@@ -3,7 +3,17 @@
 one:
   name: MyString
   email: MyString
+  age: MyString
+  gender: MyString
+  university: MyString
+  interests: MyString
+  
 
 two:
   name: MyString
   email: MyString
+  age: MyString
+  gender: MyString
+  university: MyString
+  interests: MyString
+ 
